@@ -51,7 +51,3 @@ var declared int
 // short declaration
 shortVar := "this is a short defined variable"
 ```
-
-## Datatypes
-
-## Define and Call a Function

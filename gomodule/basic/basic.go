@@ -1,8 +1,8 @@
-package main
+package basic
 
 import "fmt"
 
-func main() {
+func VariableExamples() {
 	// without datatype in defining
 	var say = "Hello"
 	fmt.Println(say)
@@ -16,7 +16,7 @@ func main() {
 
 	// multiple declare and define
 	var width, height int = 100, 70
-	fmt.Println("total area = ", width * height)
+	fmt.Println("total area = ", width*height)
 
 	// declared without defined
 	var declared int
